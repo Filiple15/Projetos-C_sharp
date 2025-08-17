@@ -1,0 +1,8 @@
+C:\Users\Joaof\source\repos\At2\At2\bin\Debug\At2.exe.config
+C:\Users\Joaof\source\repos\At2\At2\bin\Debug\At2.exe
+C:\Users\Joaof\source\repos\At2\At2\bin\Debug\At2.pdb
+C:\Users\Joaof\source\repos\At2\At2\obj\Debug\At2.csproj.AssemblyReference.cache
+C:\Users\Joaof\source\repos\At2\At2\obj\Debug\At2.csproj.CoreCompileInputs.cache
+C:\Users\Joaof\source\repos\At2\At2\obj\Debug\At2.exe
+C:\Users\Joaof\source\repos\At2\At2\obj\Debug\At2.pdb
+C:\Users\Joaof\source\repos\At2\At2\obj\Debug\At2.exe.config

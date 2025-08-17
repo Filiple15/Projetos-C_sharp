@@ -1,0 +1,8 @@
+C:\Users\Joaof\OneDrive\Documentos\Escola\3-Bimestre\TPA\Aula 3\At3\bin\Debug\At3.exe.config
+C:\Users\Joaof\OneDrive\Documentos\Escola\3-Bimestre\TPA\Aula 3\At3\bin\Debug\At3.exe
+C:\Users\Joaof\OneDrive\Documentos\Escola\3-Bimestre\TPA\Aula 3\At3\bin\Debug\At3.pdb
+C:\Users\Joaof\OneDrive\Documentos\Escola\3-Bimestre\TPA\Aula 3\At3\obj\Debug\At3.csproj.AssemblyReference.cache
+C:\Users\Joaof\OneDrive\Documentos\Escola\3-Bimestre\TPA\Aula 3\At3\obj\Debug\At3.csproj.CoreCompileInputs.cache
+C:\Users\Joaof\OneDrive\Documentos\Escola\3-Bimestre\TPA\Aula 3\At3\obj\Debug\At3.exe
+C:\Users\Joaof\OneDrive\Documentos\Escola\3-Bimestre\TPA\Aula 3\At3\obj\Debug\At3.pdb
+C:\Users\Joaof\OneDrive\Documentos\Escola\3-Bimestre\TPA\Aula 3\At3\obj\Debug\At3.exe.config
