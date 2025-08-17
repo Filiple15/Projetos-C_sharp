@@ -1,0 +1,8 @@
+C:\Users\Aluno\Desktop\Aula 2\Atividades\At6\At6\obj\Debug\At6.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\Aula 2\Atividades\At6\At6\obj\Debug\At6.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Desktop\Aula 2\Atividades\At6\At6\obj\Debug\At6.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Aula 2\Atividades\At6\At6\bin\Debug\At6.exe.config
+C:\Users\Aluno\Desktop\Aula 2\Atividades\At6\At6\bin\Debug\At6.exe
+C:\Users\Aluno\Desktop\Aula 2\Atividades\At6\At6\bin\Debug\At6.pdb
+C:\Users\Aluno\Desktop\Aula 2\Atividades\At6\At6\obj\Debug\At6.exe
+C:\Users\Aluno\Desktop\Aula 2\Atividades\At6\At6\obj\Debug\At6.pdb

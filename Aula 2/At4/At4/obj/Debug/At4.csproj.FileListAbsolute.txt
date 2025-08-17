@@ -1,0 +1,8 @@
+C:\Users\Aluno\Desktop\Aula 2\Atividades\At4\At4\bin\Debug\At4.exe.config
+C:\Users\Aluno\Desktop\Aula 2\Atividades\At4\At4\bin\Debug\At4.exe
+C:\Users\Aluno\Desktop\Aula 2\Atividades\At4\At4\bin\Debug\At4.pdb
+C:\Users\Aluno\Desktop\Aula 2\Atividades\At4\At4\obj\Debug\At4.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\Aula 2\Atividades\At4\At4\obj\Debug\At4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Desktop\Aula 2\Atividades\At4\At4\obj\Debug\At4.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Aula 2\Atividades\At4\At4\obj\Debug\At4.exe
+C:\Users\Aluno\Desktop\Aula 2\Atividades\At4\At4\obj\Debug\At4.pdb

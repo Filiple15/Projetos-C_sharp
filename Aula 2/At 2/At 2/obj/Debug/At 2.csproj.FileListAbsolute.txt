@@ -1,0 +1,8 @@
+C:\Users\Aluno\Desktop\Aula 2\Atividades\At 2\At 2\bin\Debug\At 2.exe.config
+C:\Users\Aluno\Desktop\Aula 2\Atividades\At 2\At 2\bin\Debug\At 2.exe
+C:\Users\Aluno\Desktop\Aula 2\Atividades\At 2\At 2\bin\Debug\At 2.pdb
+C:\Users\Aluno\Desktop\Aula 2\Atividades\At 2\At 2\obj\Debug\At 2.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\Aula 2\Atividades\At 2\At 2\obj\Debug\At 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Desktop\Aula 2\Atividades\At 2\At 2\obj\Debug\At 2.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Aula 2\Atividades\At 2\At 2\obj\Debug\At 2.exe
+C:\Users\Aluno\Desktop\Aula 2\Atividades\At 2\At 2\obj\Debug\At 2.pdb

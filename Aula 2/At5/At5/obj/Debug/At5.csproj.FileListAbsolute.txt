@@ -1,0 +1,8 @@
+C:\Users\Aluno\Desktop\Aula 2\Atividades\At5\At5\bin\Debug\At5.exe.config
+C:\Users\Aluno\Desktop\Aula 2\Atividades\At5\At5\bin\Debug\At5.exe
+C:\Users\Aluno\Desktop\Aula 2\Atividades\At5\At5\bin\Debug\At5.pdb
+C:\Users\Aluno\Desktop\Aula 2\Atividades\At5\At5\obj\Debug\At5.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\Aula 2\Atividades\At5\At5\obj\Debug\At5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Desktop\Aula 2\Atividades\At5\At5\obj\Debug\At5.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Aula 2\Atividades\At5\At5\obj\Debug\At5.exe
+C:\Users\Aluno\Desktop\Aula 2\Atividades\At5\At5\obj\Debug\At5.pdb
