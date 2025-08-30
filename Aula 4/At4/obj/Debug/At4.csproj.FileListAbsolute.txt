@@ -1,0 +1,7 @@
+C:\Users\Joaof\OneDrive\Documentos\Escola\3-Bimestre\TPA\Aula 4\At4\bin\Debug\At4.exe.config
+C:\Users\Joaof\OneDrive\Documentos\Escola\3-Bimestre\TPA\Aula 4\At4\bin\Debug\At4.exe
+C:\Users\Joaof\OneDrive\Documentos\Escola\3-Bimestre\TPA\Aula 4\At4\bin\Debug\At4.pdb
+C:\Users\Joaof\OneDrive\Documentos\Escola\3-Bimestre\TPA\Aula 4\At4\obj\Debug\At4.csproj.AssemblyReference.cache
+C:\Users\Joaof\OneDrive\Documentos\Escola\3-Bimestre\TPA\Aula 4\At4\obj\Debug\At4.csproj.CoreCompileInputs.cache
+C:\Users\Joaof\OneDrive\Documentos\Escola\3-Bimestre\TPA\Aula 4\At4\obj\Debug\At4.exe
+C:\Users\Joaof\OneDrive\Documentos\Escola\3-Bimestre\TPA\Aula 4\At4\obj\Debug\At4.pdb
