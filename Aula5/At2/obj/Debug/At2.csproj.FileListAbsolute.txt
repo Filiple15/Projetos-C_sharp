@@ -1,0 +1,7 @@
+C:\Users\Joaof\OneDrive\Documentos\Escola\3-Bimestre\TPA\Aula5\At2\bin\Debug\At2.exe.config
+C:\Users\Joaof\OneDrive\Documentos\Escola\3-Bimestre\TPA\Aula5\At2\bin\Debug\At2.exe
+C:\Users\Joaof\OneDrive\Documentos\Escola\3-Bimestre\TPA\Aula5\At2\bin\Debug\At2.pdb
+C:\Users\Joaof\OneDrive\Documentos\Escola\3-Bimestre\TPA\Aula5\At2\obj\Debug\At2.csproj.AssemblyReference.cache
+C:\Users\Joaof\OneDrive\Documentos\Escola\3-Bimestre\TPA\Aula5\At2\obj\Debug\At2.csproj.CoreCompileInputs.cache
+C:\Users\Joaof\OneDrive\Documentos\Escola\3-Bimestre\TPA\Aula5\At2\obj\Debug\At2.exe
+C:\Users\Joaof\OneDrive\Documentos\Escola\3-Bimestre\TPA\Aula5\At2\obj\Debug\At2.pdb
