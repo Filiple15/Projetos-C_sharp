@@ -1,4 +1,4 @@
-# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="35"/> Repositório de Estudos em C#
+# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="35"/> Repositório de Estudos
 
 Este repositório reúne os códigos desenvolvidos durante meu curso de **Desenvolvimento de Sistemas**, utilizando a linguagem **C#**.  
 O foco é documentar os principais conceitos aprendidos ao longo das aulas, servindo como **base para estudos futuros**.
