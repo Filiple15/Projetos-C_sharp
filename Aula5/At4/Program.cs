@@ -45,7 +45,15 @@ namespace At4
             }
             else
             {
-                Console.WriteLine("A ordem é: "+num3+", "+ num1+" e "+num2);
+                
+                if (num2 < num1)
+                {
+                    Console.Write("A ordem é: " + num3 + ", " + num2 + " e " + num1);
+                }
+                else
+                {
+                    Console.Write("A ordem é: " + num3 + ", " + num1 + " e " + num2);
+                }
             }
             Console.ReadKey();
         }
