@@ -29,6 +29,7 @@ namespace At5
             {
                 Console.WriteLine("Nao forma um triangulo");
             }
+            Console.ReadKey();
         }
     }
 }
